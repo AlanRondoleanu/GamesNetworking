@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gameuser\\Desktop\\Classes\\GamesNetworking\\Lab 8\\Tutorial 13\\Tut 13 - Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84B59E01-955E-40D8-BC41-CDDD057085E1}|Tut 13 - Client\\Tut 13 - Client.vcxproj|C:\\Users\\gameuser\\Desktop\\Classes\\GamesNetworking\\Lab 8\\Tutorial 13\\Tut 13 - Client\\Tut 13 - Client\\SendGetMethods.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{84B59E01-955E-40D8-BC41-CDDD057085E1}|Tut 13 - Client\\Tut 13 - Client.vcxproj|solutionrelative:Tut 13 - Client\\SendGetMethods.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B59E01-955E-40D8-BC41-CDDD057085E1}|Tut 13 - Client\\Tut 13 - Client.vcxproj|C:\\Users\\gameuser\\Desktop\\Classes\\GamesNetworking\\Lab 8\\Tutorial 13\\Tut 13 - Client\\Tut 13 - Client\\PacketStructs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{84B59E01-955E-40D8-BC41-CDDD057085E1}|Tut 13 - Client\\Tut 13 - Client.vcxproj|solutionrelative:Tut 13 - Client\\PacketStructs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SendGetMethods.cpp",
+              "DocumentMoniker": "C:\\Users\\gameuser\\Desktop\\Classes\\GamesNetworking\\Lab 8\\Tutorial 13\\Tut 13 - Client\\Tut 13 - Client\\SendGetMethods.cpp",
+              "RelativeDocumentMoniker": "Tut 13 - Client\\SendGetMethods.cpp",
+              "ToolTip": "C:\\Users\\gameuser\\Desktop\\Classes\\GamesNetworking\\Lab 8\\Tutorial 13\\Tut 13 - Client\\Tut 13 - Client\\SendGetMethods.cpp",
+              "RelativeToolTip": "Tut 13 - Client\\SendGetMethods.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T15:11:53.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PacketStructs.cpp",
+              "DocumentMoniker": "C:\\Users\\gameuser\\Desktop\\Classes\\GamesNetworking\\Lab 8\\Tutorial 13\\Tut 13 - Client\\Tut 13 - Client\\PacketStructs.cpp",
+              "RelativeDocumentMoniker": "Tut 13 - Client\\PacketStructs.cpp",
+              "ToolTip": "C:\\Users\\gameuser\\Desktop\\Classes\\GamesNetworking\\Lab 8\\Tutorial 13\\Tut 13 - Client\\Tut 13 - Client\\PacketStructs.cpp",
+              "RelativeToolTip": "Tut 13 - Client\\PacketStructs.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-14T15:11:51.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
